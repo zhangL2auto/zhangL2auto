@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @zhangL2auto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-zhangL2auto/zhangL2auto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Day Day UP UP!
+Jeden Tag Schatzen!
+Langsam und Geniessen!
